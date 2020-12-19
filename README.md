@@ -7,5 +7,5 @@ This is the quantum circuit implementation of the research paper on "Comparison 
 - A function for the Grover's circuit is created to carry out the circuit formation.
 - Using the **'qasm simulator'** we find the most appropriate values using the circuit and represent the results in the form of a histogram and a Density Matrix plot.
 - We have our ideals plots.
-- The same is then repeated with IBMQ backend simulations of IBMQ Yorktown and IBMQ Melbourne with 5 qubits and 15 qubits operative capacities respectively. 
+- The same is then repeated with IBMQ backend simulations of **IBMQ Yorktown** and **IBMQ Melbourne** with 5 qubits and 15 qubits operative capacities respectively. 
 
